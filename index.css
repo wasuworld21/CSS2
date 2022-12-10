@@ -1,0 +1,36 @@
+*{
+    margin: auto;
+    padding: 0px;
+}
+.index {
+ color: rgb(204, 25, 100);
+ 
+font-size: 40px;
+
+}
+
+.index ul li {
+float: left;
+list-style: none;
+margin-left: 20px;
+background-color:rgb(109, 135, 221);
+color: rgb(32, 6, 92);
+border: solid;
+display: block;
+}
+
+.index ul li :hover {
+    background-color: yellow;
+    color: rgb(16, 177, 70);
+}
+
+.index ul li a {
+ border: 20px;
+ margin-left: 10px;
+ margin-bottom: 10px;
+ font-family: 'Times New Roman', Times, serif;
+ text-decoration: none;
+ color: white;
+
+}
+

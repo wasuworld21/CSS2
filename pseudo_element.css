@@ -1,0 +1,25 @@
+p::first-letter {
+    color: red;
+    font-size: 60px;
+}
+
+p::first-line{
+    color: blue;
+    background-color: yellow;
+}
+
+h1{
+    color: skyblue;
+}
+h1::before
+{
+    content: "My Personal ";
+    color: orange;
+}
+
+h1::after{
+
+    content: " World";
+    color: green;
+}
+

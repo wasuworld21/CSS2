@@ -1,0 +1,28 @@
+h1:hover {
+    background-color: aqua;
+    color: red;
+}
+
+a:link
+{
+color: red;
+background-color: blue;
+
+}
+
+a:visited{
+    color: blueviolet;
+    background-color: yellow;
+}
+a:active{
+    color: forestgreen;
+    background-color: black;
+}
+a:hover{
+    color: blue;
+    background-color: rgb(88, 10, 69);
+}
+
+h1:active {
+    color: green;
+}

@@ -1,0 +1,27 @@
+h2 {
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: blue;
+}
+
+p{
+
+    text-indent: 20%;
+    text-decoration-color: red;
+    text-decoration-line: overline;
+    text-transform: capitalize;
+
+}
+
+h1
+{
+    text-shadow: 5px 2px 1px rgb(0, 153, 255), -5px 5px 1px red, 7px 7px 3px yellow;
+    font-size: 100px;
+
+}
+
+h3 {
+-webkit-text-fill-color: red;
+    letter-spacing: 0.1cm;
+    word-spacing: 2cm;
+}

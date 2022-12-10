@@ -1,0 +1,17 @@
+h1 {
+color:blue;
+background-color: orange;
+width: 270px;
+}
+
+h2 {
+    color: white;
+    background-color: blue;
+    width: 300px;
+}
+
+h3 {
+color: yellow;
+background-color: green;
+width: 400px;
+}

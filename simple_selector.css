@@ -1,0 +1,23 @@
+.waseem{
+    color: red;
+    background-color: yellow;
+}
+
+.akram{
+    color: rgb(255, 0, 200);
+    background-color: green;
+}
+*{
+    font-family:'Times New Roman', Times, serif
+}
+#idselector{
+    color: yellow;
+    background-color: blue;
+}
+
+h5,p {
+    color: aqua;
+    background-color: brown;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
